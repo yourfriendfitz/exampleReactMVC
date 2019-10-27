@@ -1,0 +1,1 @@
+This is an example .NET core and react application. 
